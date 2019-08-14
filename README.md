@@ -27,13 +27,12 @@ Data de entrega da atividade: **14/08/2019 durante a aula** Porém, deixarei a s
 
 _A atividade pode ser feita individualmente ou em dupla._
 
-##### extra:
-_Minutagem do vídeo_
+#### _Minutagem do vídeo_
 
-(01:28) Vantagens x Desvantagens
+_(01:28) Vantagens x Desvantagens_
 
-(07:37) Geração de números pseudo-aleatórios
+_(07:37) Geração de números pseudo-aleatórios_
 
-(17:33) Método Congruente
+_(17:33) Método Congruente_
 
-(20:46) Método Congruente Linear
+_(20:46) Método Congruente Linear_
