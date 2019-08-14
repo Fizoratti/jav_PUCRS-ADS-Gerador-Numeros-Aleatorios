@@ -1,7 +1,7 @@
 :coffee: `Java`
 
 _PUCRS - Avaliação de Desempenho de Sistemas_
-# Gerador de Números Aleatórios 
+## Gerador de Números Aleatórios 
 
 ##### To run makefile on linux run
     
@@ -11,7 +11,7 @@ _PUCRS - Avaliação de Desempenho de Sistemas_
     
     > .\make.bat
 
-## Enunciado
+### Enunciado
 
 Assista o [video](https://www.dropbox.com/s/hus48qe9gkej8xk/Gera%C3%A7%C3%A3o%20de%20n%C3%BAmeros%20pseudo-aleat%C3%B3rios.mp4?dl=0) e veja o material da aula referente a geração de números aleatórios.
 
