@@ -23,6 +23,6 @@ A fim de validar a entrega da atividade, envie um único arquivo ".zip" no forma
 
 O zip deve conter um arquivo texto com os 1.000 números pseudo-aleatórios produzidos pelo seu método, bem como o gráfico de dispersão destes números.
 
-Data de entrega da atividade: *14/08/2019 durante a aula* Porém, deixarei a sala do moddle aberta até as 23:59.
+Data de entrega da atividade: **14/08/2019 durante a aula** Porém, deixarei a sala do moddle aberta até as 23:59.
 
-A atividade pode ser feita individualmente ou em dupla.
+_A atividade pode ser feita individualmente ou em dupla._
