@@ -1,4 +1,4 @@
-# (java) PUCRS - Avaliação de Desempenho de Sistemas - Gerador de Números Aleatórios
+# (java) PUCRS - Avaliação de Desempenho de Sistemas - Gerador de Números Aleatórios :octocat:
 
 ##### To run makefile on linux run
     
