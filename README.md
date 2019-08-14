@@ -26,3 +26,14 @@ O zip deve conter um arquivo texto com os 1.000 números pseudo-aleatórios prod
 Data de entrega da atividade: **14/08/2019 durante a aula** Porém, deixarei a sala do moddle aberta até as 23:59.
 
 _A atividade pode ser feita individualmente ou em dupla._
+
+###### extra:
+_Minutagem do vídeo_
+
+(01:28) Vantagens x Desvantagens
+
+(07:37) Geração de números pseudo-aleatórios
+
+(17:33) Método Congruente
+
+(20:46) Método Congruente Linear
