@@ -1,5 +1,7 @@
-:octocat: ```java (java)```
-# PUCRS - Avaliação de Desempenho de Sistemas - Gerador de Números Aleatórios 
+:coffee: `Java`
+
+# Gerador de Números Aleatórios 
+_PUCRS - Avaliação de Desempenho de Sistemas_
 
 ##### To run makefile on linux run
     
