@@ -27,7 +27,7 @@ Data de entrega da atividade: **14/08/2019 durante a aula** Porém, deixarei a s
 
 _A atividade pode ser feita individualmente ou em dupla._
 
-#### _Minutagem do vídeo_
+#### Minutagem do vídeo
 
 _(01:28) Vantagens x Desvantagens_
 
