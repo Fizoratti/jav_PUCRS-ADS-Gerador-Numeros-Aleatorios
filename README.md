@@ -1,1 +1,10 @@
-# jav_PUCRS-ADS-Gerador-Numeros-Aleatorios
+# JavaMake
+
+##### To run makefile on linux run
+    
+    $ make -s run
+
+##### To run makefile on windows run
+    
+    > .\make.bat
+
