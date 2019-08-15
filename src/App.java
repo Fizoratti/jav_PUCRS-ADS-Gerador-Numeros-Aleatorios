@@ -5,16 +5,21 @@ import java.util.List;
 public class App {
     public static void main(String args[]) {
 
-        Message message = new Message("Hello World!");
-        System.out.println(message.getMessage());
+        // Message message = new Message("Hello World!");
+        // System.out.println(message.getMessage());
 
-        Scanner ler = new Scanner(System.in);
+        // Scanner ler = new Scanner(System.in);
 
-        String texto = ler.next();
+        // String texto = ler.next();
 
-        ler.close();
+        // ler.close();
 
-        System.out.println(texto);
+        // System.out.println(texto);
+
+        for(double value: Generator.generate(1000)) {
+            System.out.println(value + ",");
+        }
+        
 
     }
 }
